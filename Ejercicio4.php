@@ -31,7 +31,7 @@ hasta que se le acaben los $5. </p>
     }
     ?>
      <form action="" method="post">
-        <label>La maquina piola de SF ingrese el dinero cuesta $1 cada jugada</label>
+        <label>La maquina de SF ingrese el dinero cuesta $1 cada jugada</label>
         <input type="number" name="jugada" value="<?php echo $restante ?>">
         <input type="submit" value="Jugar">
     </form>
